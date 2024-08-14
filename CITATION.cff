@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Brain Tumor MRI Dataset
+message: >-
+  Dataset from which all the tumor images where derived
+  from.
+type: dataset
+authors:
+  - name: Kaggle
+    website: 'https://kaggle.com'
+identifiers:
+  - type: url
+    value: >-
+      https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+    description: Link to the actual dataset
+abstract: >-
+  The dataset used in order to train the current Brain Tumor
+  ML model.
+keywords:
+  - Dataset
+  - Brain Tumor
+license: CDLA-Permissive-1.0
